@@ -1,0 +1,76 @@
+## Visual Studio / WinForms / .NET
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+out/
+build-verify/
+Wallpaper_Engine/
+
+# Visual Studio files
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# .NET tooling
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.snupkg
+packages/
+.packages/
+TestResults/
+CoverageReport/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Publish output
+publish/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Windows / local files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# User secrets and local config
+secrets.json
+appsettings.Development.json
+*.local.json
