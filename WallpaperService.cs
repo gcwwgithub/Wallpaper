@@ -16,7 +16,8 @@ public sealed class WallpaperService
         ".jpeg",
         ".png",
         ".bmp",
-        ".webp"
+        ".webp",
+        ".avif"
     };
 
     private readonly Random random = new();
